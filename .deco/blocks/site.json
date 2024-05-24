@@ -38,7 +38,7 @@
   "commerce": {
     "platform": "other"
   },
-  "platform": "vtex",
+  "platform": "wake",
   "__resolveType": "site/apps/site.ts",
   "firstByteThresholdMS": true,
   "abTesting": {

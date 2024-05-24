@@ -25,14 +25,7 @@
     },
     {
       "title": "You may also like",
-      "products": {
-        "slug": {
-          "param": "slug",
-          "__resolveType": "website/functions/requestToParam.ts"
-        },
-        "crossSelling": "whosawalsosaw",
-        "__resolveType": "vtex/loaders/legacy/relatedProductsLoader.ts"
-      },
+      "products": null,
       "__resolveType": "site/sections/Product/ProductShelf.tsx"
     },
     {
