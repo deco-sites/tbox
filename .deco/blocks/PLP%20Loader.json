@@ -1,9 +1,31 @@
 {
-  "data": null,
-  "extensions": [
-    {
-      "__resolveType": "vtex/loaders/product/extensions/listingPage.ts"
-    }
-  ],
+  "data": {
+    "__resolveType": "wake/loaders/productListingPage.ts",
+    "limit": 12,
+    "operation": "AND",
+    "sort": "NAME:ASC",
+    "filters": {
+      "attributes": {
+        "id": [],
+        "name": [],
+        "type": [],
+        "value": []
+      },
+      "brandId": [],
+      "categoryId": [],
+      "ean": [],
+      "productId": [],
+      "productVariantId": [],
+      "sameParentAs": [],
+      "sku": [],
+      "stocks": {
+        "dcId": [],
+        "dcName": []
+      },
+      "prices": {}
+    },
+    "pageOffset": 0
+  },
+  "extensions": [],
   "__resolveType": "commerce/loaders/product/extensions/listingPage.ts"
 }

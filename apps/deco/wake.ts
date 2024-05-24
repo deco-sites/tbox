@@ -1,2 +1,2 @@
-export { default } from "@deco/wake";
-export * from "@deco/wake";
+export { default } from "apps/wake/mod.ts";
+export * from "apps/wake/mod.ts";

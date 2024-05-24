@@ -203,10 +203,6 @@
     "blockType": "sections",
     "__resolveType": "site/sections/Miscellaneous/Slide.tsx"
   },
-  "/.deco/blocks/Search%20Loader.json": {
-    "blockType": "loaders",
-    "__resolveType": "commerce/loaders/product/extensions/listingPage.ts"
-  },
   "/.deco/blocks/Shoppable%20Banner%20-%2001.json": {
     "blockType": "sections",
     "__resolveType": "site/sections/Images/ShoppableBanner.tsx"
@@ -244,10 +240,6 @@
     "path": "/produto/:slug",
     "blockType": "pages",
     "__resolveType": "website/pages/Page.tsx"
-  },
-  "/.deco/blocks/plausible.json": {
-    "blockType": "apps",
-    "__resolveType": "decohub/apps/analytics.ts"
   },
   "/.deco/blocks/site.json": {
     "blockType": "apps",

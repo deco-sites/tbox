@@ -1,9 +1,11 @@
 {
-  "data": null,
-  "extensions": [
-    {
-      "__resolveType": "vtex/loaders/product/extensions/detailsPage.ts"
+  "data": {
+    "__resolveType": "wake/loaders/productDetailsPage.ts",
+    "slug": {
+      "__resolveType": "website/functions/requestToParam.ts",
+      "param": "slug"
     }
-  ],
+  },
+  "extensions": [],
   "__resolveType": "commerce/loaders/product/extensions/detailsPage.ts"
 }
